@@ -49,4 +49,8 @@ covid19-diagnosis/
 1. Open either notebook in Google Colab.
 2. Mount Google Drive.
 3. Update the dataset paths if necessary.
-4. Run the notebook cells sequentially.
+4. # Run the notebook cells sequentially.
+
+# covid19-diagnosis
+
+COVID-19 diagnosis using pre-trained CNN feature extraction, Chi-Square feature selection, and XGBoost classification on chest X-ray images.
